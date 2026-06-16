@@ -7,3 +7,4 @@
 4.<i><u>Rock Paper Scissor Game</i></u> – A basic Python game where the user plays Rock, Paper, Scissors against the computer using random choices and conditional logic.<br><br>
 5.<i><u>The Perfect Guess</i></u> – A number guessing game in Python where the computer randomly selects a number and the user tries to guess it in minimum attempts.<br><br>
 6.<i><u>Tower of Hanoi Problem</i></u> – A famous recursive problem in computer science where disks are moved between rods following specific rules to solve the puzzle efficiently.<br><br>
+7.<i><u>A Digital Clock</i></u> - It is a simple GUI-based application developed using Python's Tkinter library. It displays the current date and time in real time and updates automatically every second using the strftime() function from the time module. This project demonstrates the basics of GUI development, labels, and event-driven programming in Python.
