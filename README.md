@@ -11,3 +11,5 @@
 8.<i><u>Tic Tac Toe Game</i></u> - This is a simple command-line Tic Tac Toe game built using Python. The game allows a human player to compete against the computer in a classic 3x3 grid-based format.
 The project demonstrates core programming concepts such as loops, conditionals, functions, and basic game logic implementation.<br><br>
 9.<i><u>QR Code Generator</i></u> - QR Code Generator is a Python-based application that generates QR codes from user-provided text, URLs, or other data. It provides a simple and user-friendly interface for creating high-quality QR codes that can be saved as image files for easy sharing and scanning and is built using "qrcode" module in Python Library. 
+<br><br>
+10.<i><u>Snake Game using Python & Tkinter<\i><\u>- A classic Snake Game developed using Python and the Tkinter GUI library. The game features smooth keyboard-controlled movement, real-time score tracking, random food generation, collision detection, and dynamic snake growth. The objective is to eat as much food as possible while avoiding collisions with the walls and the snake's own body.
