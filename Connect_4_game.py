@@ -6,7 +6,6 @@ COLS = 7
 
 board = [[0 for _ in range(COLS)] for _ in range(ROWS)]
 player = 1
-
 root = tk.Tk()
 root.title("Connect 4 Game using Python and Tkinter")
 root.geometry("650x600")
