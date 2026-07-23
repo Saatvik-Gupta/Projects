@@ -16,3 +16,4 @@ The project demonstrates core programming concepts such as loops, conditionals, 
 <br><br>
 11.<i><u>Connect 4 Game</i></u> - It is a two-player desktop game developed using Python and Tkinter. Players take turns dropping colored discs into a x×y grid, with the objective of connecting four of their discs consecutively in a horizontal, vertical, or diagonal direction before their opponent. The project features an interactive graphical user interface, automatic turn switching, real-time win detection, and a simple, user-friendly design. It was built to enhance my understanding of Python GUI development, game logic, and event-driven programming.
 
+12.<i><u>Ping Pong Game</i></u> - A Ping Pong Game in Python Tkinter is a simple GUI game where a player controls a paddle to keep a ball bouncing inside the window. It's a great beginner project because it teaches GUI programming, collision detection, keyboard events, and animation.
