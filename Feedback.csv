@@ -1,0 +1,361 @@
+feedback,sentiment
+The teacher is excellent,Positive
+The teaching is outstanding,Positive
+The faculty is helpful,Positive
+The professor is knowledgeable,Positive
+The lectures are engaging,Positive
+The classroom is comfortable,Positive
+The course is interesting,Positive
+The teaching method is effective,Positive
+The instructor is supportive,Positive
+The explanation is clear,Positive
+The practical sessions are useful,Positive
+The learning experience is wonderful,Positive
+The teacher is patient,Positive
+The faculty is cooperative,Positive
+The course content is impressive,Positive
+The professor is inspiring,Positive
+The academic support is excellent,Positive
+The classroom facilities are great,Positive
+The teacher is friendly,Positive
+The overall experience is fantastic,Positive
+The teacher is a good person,Positive
+The professor is a kind person,Positive
+The instructor is polite and respectful,Positive
+The teacher motivates students,Positive
+The faculty provides valuable guidance,Positive
+The lessons are easy to understand,Positive
+The course is worth studying,Positive
+The teacher answers questions clearly,Positive
+The laboratory facilities are well maintained,Positive
+I am satisfied with the teaching,Positive
+I really enjoy these lectures,Positive
+The teaching quality exceeds expectations,Positive
+The course has been beneficial,Positive
+The professor explains difficult topics simply,Positive
+The teacher treats students fairly,Positive
+The staff is welcoming,Positive
+The learning environment is motivating,Positive
+The assignments help me learn,Positive
+The feedback from the teacher is useful,Positive
+The course is organized very well,Positive
+The teaching is clear and very helpful,Positive
+The teaching is clear and highly professional,Positive
+The teaching is clear and easy to understand,Positive
+The teaching is clear and well organized,Positive
+The teaching is clear and supportive of students,Positive
+The teaching is clear and consistently reliable,Positive
+The professor is knowledgeable and very helpful,Positive
+The professor is knowledgeable and highly professional,Positive
+The professor is knowledgeable and easy to understand,Positive
+The professor is knowledgeable and well organized,Positive
+The professor is knowledgeable and supportive of students,Positive
+The professor is knowledgeable and consistently reliable,Positive
+The faculty is cooperative and very helpful,Positive
+The faculty is cooperative and highly professional,Positive
+The faculty is cooperative and easy to understand,Positive
+The faculty is cooperative and well organized,Positive
+The faculty is cooperative and supportive of students,Positive
+The faculty is cooperative and consistently reliable,Positive
+The course material is useful and very helpful,Positive
+The course material is useful and highly professional,Positive
+The course material is useful and easy to understand,Positive
+The course material is useful and well organized,Positive
+The course material is useful and supportive of students,Positive
+The course material is useful and consistently reliable,Positive
+The instructor is patient and very helpful,Positive
+The instructor is patient and highly professional,Positive
+The instructor is patient and easy to understand,Positive
+The instructor is patient and well organized,Positive
+The instructor is patient and supportive of students,Positive
+The instructor is patient and consistently reliable,Positive
+The classroom environment is welcoming and very helpful,Positive
+The classroom environment is welcoming and highly professional,Positive
+The classroom environment is welcoming and easy to understand,Positive
+The classroom environment is welcoming and well organized,Positive
+The classroom environment is welcoming and supportive of students,Positive
+The classroom environment is welcoming and consistently reliable,Positive
+The practical guidance is valuable and very helpful,Positive
+The practical guidance is valuable and highly professional,Positive
+The practical guidance is valuable and easy to understand,Positive
+The practical guidance is valuable and well organized,Positive
+The practical guidance is valuable and supportive of students,Positive
+The practical guidance is valuable and consistently reliable,Positive
+The academic support is reliable and very helpful,Positive
+The academic support is reliable and highly professional,Positive
+The academic support is reliable and easy to understand,Positive
+The academic support is reliable and well organized,Positive
+The academic support is reliable and supportive of students,Positive
+The academic support is reliable and consistently reliable,Positive
+The explanations are detailed and very helpful,Positive
+The explanations are detailed and highly professional,Positive
+The explanations are detailed and easy to understand,Positive
+The explanations are detailed and well organized,Positive
+The explanations are detailed and supportive of students,Positive
+The explanations are detailed and consistently reliable,Positive
+The learning activities are engaging and very helpful,Positive
+The learning activities are engaging and highly professional,Positive
+The learning activities are engaging and easy to understand,Positive
+The learning activities are engaging and well organized,Positive
+The learning activities are engaging and supportive of students,Positive
+The learning activities are engaging and consistently reliable,Positive
+The teacher is not bad,Positive
+The course is not disappointing,Positive
+The professor is never rude,Positive
+The instructor does not ignore students,Positive
+The teaching is better than expected,Positive
+The teacher gives excellent examples,Positive
+The faculty responds quickly to doubts,Positive
+The professor makes the subject enjoyable,Positive
+The lessons are practical and informative,Positive
+The teacher is caring and understanding,Positive
+The staff handles requests efficiently,Positive
+The course materials are easy to follow,Positive
+The teacher gives constructive feedback,Positive
+The professor encourages independent thinking,Positive
+The college provides a positive learning environment,Positive
+The teacher is approachable whenever I need help,Positive
+The lectures are useful for exam preparation,Positive
+The instructor demonstrates every concept clearly,Positive
+The course meets my expectations,Positive
+I would recommend this class to others,Positive
+The teacher is poor,Negative
+The teaching is terrible,Negative
+The faculty is unhelpful,Negative
+The professor is unprepared,Negative
+The lectures are boring,Negative
+The classroom is uncomfortable,Negative
+The course is confusing,Negative
+The teaching method is ineffective,Negative
+The instructor is unsupportive,Negative
+The explanation is unclear,Negative
+The practical sessions are useless,Negative
+The learning experience is horrible,Negative
+The teacher is impatient,Negative
+The faculty is uncooperative,Negative
+The course content is disappointing,Negative
+The professor is rude,Negative
+The academic support is inadequate,Negative
+The classroom facilities are poor,Negative
+The teacher is unfriendly,Negative
+The overall experience is frustrating,Negative
+The teacher is a bad person,Negative
+The professor is careless,Negative
+The instructor is disrespectful,Negative
+The teacher discourages students,Negative
+The faculty provides no guidance,Negative
+The lessons are difficult to understand,Negative
+The course is not useful,Negative
+The teacher ignores questions,Negative
+The laboratory facilities are poorly maintained,Negative
+I am dissatisfied with the teaching,Negative
+I dislike these lectures,Negative
+The teaching quality is below expectations,Negative
+The course has been disappointing,Negative
+The professor explains topics badly,Negative
+The teacher treats students unfairly,Negative
+The staff is unwelcoming,Negative
+The learning environment is stressful,Negative
+The assignments do not help me learn,Negative
+The feedback from the teacher is unhelpful,Negative
+The course is organized very poorly,Negative
+The teaching is unclear and very disappointing,Negative
+The teaching is unclear and poorly explained,Negative
+The teaching is unclear and unhelpful to students,Negative
+The teaching is unclear and badly organized,Negative
+The teaching is unclear and difficult to understand,Negative
+The teaching is unclear and consistently unreliable,Negative
+The professor is unprepared and very disappointing,Negative
+The professor is unprepared and poorly explained,Negative
+The professor is unprepared and unhelpful to students,Negative
+The professor is unprepared and badly organized,Negative
+The professor is unprepared and difficult to understand,Negative
+The professor is unprepared and consistently unreliable,Negative
+The faculty is careless and very disappointing,Negative
+The faculty is careless and poorly explained,Negative
+The faculty is careless and unhelpful to students,Negative
+The faculty is careless and badly organized,Negative
+The faculty is careless and difficult to understand,Negative
+The faculty is careless and consistently unreliable,Negative
+The course material is outdated and very disappointing,Negative
+The course material is outdated and poorly explained,Negative
+The course material is outdated and unhelpful to students,Negative
+The course material is outdated and badly organized,Negative
+The course material is outdated and difficult to understand,Negative
+The course material is outdated and consistently unreliable,Negative
+The instructor is impatient and very disappointing,Negative
+The instructor is impatient and poorly explained,Negative
+The instructor is impatient and unhelpful to students,Negative
+The instructor is impatient and badly organized,Negative
+The instructor is impatient and difficult to understand,Negative
+The instructor is impatient and consistently unreliable,Negative
+The classroom environment is unpleasant and very disappointing,Negative
+The classroom environment is unpleasant and poorly explained,Negative
+The classroom environment is unpleasant and unhelpful to students,Negative
+The classroom environment is unpleasant and badly organized,Negative
+The classroom environment is unpleasant and difficult to understand,Negative
+The classroom environment is unpleasant and consistently unreliable,Negative
+The practical guidance is inadequate and very disappointing,Negative
+The practical guidance is inadequate and poorly explained,Negative
+The practical guidance is inadequate and unhelpful to students,Negative
+The practical guidance is inadequate and badly organized,Negative
+The practical guidance is inadequate and difficult to understand,Negative
+The practical guidance is inadequate and consistently unreliable,Negative
+The academic support is unreliable and very disappointing,Negative
+The academic support is unreliable and poorly explained,Negative
+The academic support is unreliable and unhelpful to students,Negative
+The academic support is unreliable and badly organized,Negative
+The academic support is unreliable and difficult to understand,Negative
+The academic support is unreliable and consistently unreliable,Negative
+The explanations are confusing and very disappointing,Negative
+The explanations are confusing and poorly explained,Negative
+The explanations are confusing and unhelpful to students,Negative
+The explanations are confusing and badly organized,Negative
+The explanations are confusing and difficult to understand,Negative
+The explanations are confusing and consistently unreliable,Negative
+The learning activities are boring and very disappointing,Negative
+The learning activities are boring and poorly explained,Negative
+The learning activities are boring and unhelpful to students,Negative
+The learning activities are boring and badly organized,Negative
+The learning activities are boring and difficult to understand,Negative
+The learning activities are boring and consistently unreliable,Negative
+The teacher is not good,Negative
+The course is not helpful,Negative
+The professor is never prepared,Negative
+The instructor does not answer questions,Negative
+The teaching is worse than expected,Negative
+The teacher gives incorrect examples,Negative
+The faculty responds very slowly to doubts,Negative
+The professor makes the subject difficult,Negative
+The lessons are impractical and confusing,Negative
+The teacher is careless and impatient,Negative
+The staff handles requests inefficiently,Negative
+The course materials are hard to follow,Negative
+The teacher gives no useful feedback,Negative
+The professor discourages independent thinking,Negative
+The college provides a stressful learning environment,Negative
+The teacher is unavailable when I need help,Negative
+The lectures are not useful for exam preparation,Negative
+The instructor demonstrates concepts poorly,Negative
+The course does not meet my expectations,Negative
+I would not recommend this class to others,Negative
+The student is present,Neutral
+The student is absent,Neutral
+The teacher is present today,Neutral
+The teacher is absent today,Neutral
+The students are attending class,Neutral
+The lecture starts at ten,Neutral
+The examination is on Monday,Neutral
+The class has forty students,Neutral
+The assignment is due Friday,Neutral
+The course has five units,Neutral
+The teacher arrived at nine,Neutral
+The classroom has two windows,Neutral
+The semester begins in August,Neutral
+The subject contains six chapters,Neutral
+The examination lasts three hours,Neutral
+The library closes at five,Neutral
+The teacher distributed the notes,Neutral
+The students attended the lecture,Neutral
+The practical examination is tomorrow,Neutral
+The assignment contains ten questions,Neutral
+The course duration is six months,Neutral
+The class is scheduled after lunch,Neutral
+The teacher discussed chapter three,Neutral
+The attendance was recorded today,Neutral
+The college has three laboratories,Neutral
+The timetable was updated yesterday,Neutral
+The project submission date is Friday,Neutral
+The lecture was about machine learning,Neutral
+The examination hall is in block B,Neutral
+The course includes theoretical subjects,Neutral
+The teacher shared the presentation,Neutral
+The students completed the assignment,Neutral
+The next class is on Wednesday,Neutral
+The syllabus includes five modules,Neutral
+The practical session starts at eleven,Neutral
+The college opens at eight,Neutral
+The teacher assigned homework,Neutral
+The examination schedule was announced,Neutral
+The classroom has thirty desks,Neutral
+The students submitted their forms,Neutral
+The course includes programming subjects,Neutral
+The lecture lasted one hour,Neutral
+The teacher uploaded study materials,Neutral
+The semester has six subjects,Neutral
+The examination is conducted in December,Neutral
+The students have a holiday tomorrow,Neutral
+The assignment was submitted online,Neutral
+The class is held in room number twelve,Neutral
+The professor teaches computer science,Neutral
+The college library contains many books,Neutral
+The practical class is on Thursday,Neutral
+The teacher provided the question paper,Neutral
+The students have two examinations,Neutral
+The course has four credits,Neutral
+The lecture begins after the break,Neutral
+The examination results were declared,Neutral
+The teacher took attendance,Neutral
+The students registered for the course,Neutral
+The timetable contains seven periods,Neutral
+The college has five academic blocks,Neutral
+The assignment deadline is next week,Neutral
+The students attended the seminar,Neutral
+The lecture topic was artificial intelligence,Neutral
+The examination contains five sections,Neutral
+The teacher explained the syllabus,Neutral
+The students received their certificates,Neutral
+The course includes practical work,Neutral
+The teacher announced the examination date,Neutral
+The laboratory opens at nine,Neutral
+The students completed their projects,Neutral
+The college conducts annual examinations,Neutral
+The lecture is scheduled for tomorrow,Neutral
+The teacher gave an assignment,Neutral
+The course consists of eight chapters,Neutral
+The examination will start at ten,Neutral
+The students submitted their feedback,Neutral
+The semester ends in May,Neutral
+The classroom is on the second floor,Neutral
+The teacher shared the class notes,Neutral
+The course registration is open,Neutral
+The students have a mathematics class,Neutral
+The examination hall is on the first floor,Neutral
+The college organized a seminar,Neutral
+The next lecture is on Friday,Neutral
+The assignment has five questions,Neutral
+The professor discussed the topic,Neutral
+The students received their timetable,Neutral
+The laboratory session lasts two hours,Neutral
+The college has twenty departments,Neutral
+The teacher uploaded the assignment,Neutral
+The examination takes place in the morning,Neutral
+The course contains theoretical and practical units,Neutral
+The students attended the workshop,Neutral
+The teacher distributed the syllabus,Neutral
+The class begins at nine thirty,Neutral
+The project has three sections,Neutral
+The examination form is available online,Neutral
+The college announced the holiday,Neutral
+The lecture covered database management,Neutral
+The students completed the registration,Neutral
+The course starts in September,Neutral
+The teacher discussed the assignment deadline,Neutral
+The practical examination is scheduled for Monday,Neutral
+The student is sitting in the classroom,Neutral
+The student is reading a book,Neutral
+The student is using a laptop,Neutral
+The teacher is checking attendance,Neutral
+The professor is taking attendance,Neutral
+The students are writing notes,Neutral
+The students are preparing for the examination,Neutral
+The class has started,Neutral
+The lecture is currently ongoing,Neutral
+The teacher entered the classroom,Neutral
+The student submitted the assignment,Neutral
+The teacher is available in room twelve,Neutral
+The students are working on a project,Neutral
+The class is in the computer laboratory,Neutral
+The teacher is explaining chapter two,Neutral
+The student has a notebook,Neutral
+The examination begins at nine,Neutral

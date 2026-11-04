@@ -2,6 +2,7 @@
 
 import nltk
 import re
+import csv
 
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
@@ -45,37 +46,33 @@ def preprocess_text(text):
     # Join words into a sentence
     return " ".join(words)
 
-# Step 3: Create a small training dataset
-feedback_data = [
+# Step 3 & 4: Load dataset from CSV
 
-    # Positive feedback
-    "The teacher is excellent",
-    "The teaching is very good",
-    "The faculty is helpful",
-    "I enjoy the lectures",
-    "The classroom is comfortable",
+feedback_data = []
+labels = []
 
-    # Negative feedback
-    "The teacher is terrible",
-    "The teaching is very bad",
-    "The faculty is unhelpful",
-    "I hate the lectures",
-    "The classroom is uncomfortable",
+with open("feedback.csv", "r", encoding="utf-8-sig") as file:
 
-    # Neutral feedback
-    "The lecture starts at ten",
-    "The examination is on Monday",
-    "The class has forty students",
-    "The assignment is due Friday",
-    "The course has five units"
-]
+    reader = csv.DictReader(file)
 
-# Step 4: Create sentiment labels
-# labels =  ["Positive"] * 5 + ["Negative"] * 5 + ["Neutral"] * 5
-labels = [
-    "Positive", "Positive", "Positive", "Positive", "Positive",
-    "Negative", "Negative", "Negative", "Negative", "Negative",
-    "Neutral", "Neutral", "Neutral", "Neutral", "Neutral"
+    for row in reader:
+        feedback_data.append(row["feedback"].strip())
+        labels.append(row["sentiment"].strip())
+
+# Check dataset size and distribution
+
+print("\n----- DATASET INFORMATION -----")
+
+print("Total records:", len(feedback_data))
+print("Positive:", labels.count("Positive"))
+print("Negative:", labels.count("Negative"))
+print("Neutral:", labels.count("Neutral"))
+
+
+# Step 5: Preprocess training data
+
+processed_feedback = [
+    preprocess_text(text) for text in feedback_data
 ]
 
 # Step 5: Preprocess training data
@@ -86,9 +83,14 @@ processed_feedback = [
 # Step 6: Create the ML pipeline
 model = Pipeline([
 
-    ("tfidf", TfidfVectorizer(ngram_range=(1, 2))),
+    ("tfidf", TfidfVectorizer(
+        ngram_range=(1, 2),
+        sublinear_tf=True,
+        min_df=1
+    )),
 
     ("classifier", LogisticRegression(max_iter=1000))
+
 ])
 
 # Step 7: Train the model
