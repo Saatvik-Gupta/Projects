@@ -1,4 +1,6 @@
 # run cd "Weather App"--> then python app.py
+# Backend
+
 from flask import Flask, render_template, request
 import requests
 from datetime import datetime, timezone, timedelta
