@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Weather Information System</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>☁ Weather App</h1>
+        <p class="subtitle">Check the weather of any city</p>
+
+        <form method="POST">
+            <input
+                type="text"
+                name="city"
+                placeholder="Enter city name..."
+                required
+            >
+
+            <button type="submit">Search</button>
+        </form>
+
+        {% if error %}
+            <div class="error">
+                {{ error }}
+            </div>
+        {% endif %}
+
+        {% if weather %}
+
+        <div class="weather-card">
+
+            <h2>
+                {{ weather.city }}, {{ weather.country }}
+            </h2>
+
+            <img
+                src="https://openweathermap.org/img/wn/{{ weather.icon }}@2x.png"
+                alt="Weather icon"
+            >
+
+            <h1>{{ weather.temperature }}°C</h1>
+
+            <p class="description">
+                {{ weather.description }}
+            </p>
+
+            <p>
+                Feels Like: {{ weather.feels_like }}°C
+            </p>
+
+            <div class="details">
+
+                <div class="detail-box">
+                    <h3>💧 Humidity</h3>
+                    <p>{{ weather.humidity }}%</p>
+                </div>
+
+                <div class="detail-box">
+                    <h3>🌬 Wind Speed</h3>
+                    <p>{{ weather.wind }} m/s</p>
+                </div>
+
+                <div class="detail-box">
+                    <h3>🌡 Pressure</h3>
+                    <p>{{ weather.pressure }} hPa</p>
+                </div>
+
+                <div class="detail-box">
+                    <h3>🌅 Sunrise</h3>
+                    <p>{{ weather.sunrise }}</p>
+                </div>
+
+                <div class="detail-box">
+                    <h3>🌇 Sunset</h3>
+                    <p>{{ weather.sunset }}</p>
+                </div>
+
+            </div>
+
+        </div>
+
+        {% endif %}
+
+    </div>
+
+</body>
+</html>
